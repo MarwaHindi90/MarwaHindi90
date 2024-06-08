@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Marwa Sulieman Hindi A highly motivated Front-end developer with a Bachelor's degree in Biomedical Engineering and systems from Cairo University. </h4>
+<h4> I'm Marwa Sulieman Hindi a highly motivated Front-end developer with a Bachelor's degree in Biomedical Engineering and systems from Cairo University. </h4>
  <p> ## 📫 Let's Connect: You can email me at marwashindi@gmail.com </p>
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
